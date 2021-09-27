@@ -28,4 +28,4 @@ The 2020/21 January exams with solutions can be found here:
 Previous years' exams can be found here (note they were a different format): <https://github.com/coms30127/exam_papers>
 
 ## Intro meeting with Q+A ##
-Recorded 12-12.45am 27/10/20.
+
