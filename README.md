@@ -29,7 +29,7 @@ Previous years' exams can be found here (note they were a different format): <ht
 
 ## Intro meeting with Q+A ##
 | video | slides |
-
+| [Stream link](https://web.microsoftstream.com/video/54dde62c-c7c6-487a-8484-d0f5b5d2392b) | [pdf](week_1/slides/intro.pdf) |
 
 *Background on brains.*
 
