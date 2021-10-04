@@ -32,7 +32,7 @@ Previous years' exams can be found here (note they were a different format): <ht
 | ----- | ------ |
 | [Stream link](https://web.microsoftstream.com/video/54dde62c-c7c6-487a-8484-d0f5b5d2392b) | [pdf](week_1/slides/intro.pdf)
 
-*Background on brains.*
+## Week 1 - Background on brains ##
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
@@ -42,3 +42,15 @@ Previous years' exams can be found here (note they were a different format): <ht
 | 4. Neuronal communication. | 14:37 [Stream link](https://web.microsoftstream.com/video/7eb544bf-a675-4c35-9e09-65f30016e50a) | [pdf](week_1/slides/week1_video4_neural_communication.pdf)
 | 5. Measuring, recording and stimulating the brain. | 19:54 [Stream link](https://web.microsoftstream.com/video/88b6fe93-55f5-4a9a-87f1-077e4a39475a) | [pdf](week_1/slides/week1_video5_brain_recording.pdf)
 | Problem sheet |---| [pdf](week_1/problem_sheet_week1.pdf)
+
+## Week 2 - CH - modelling neurons ##
+Lectures:
+* lecture 1: <a href="https://www.youtube.com/watch?v=VrtVHAGjuEs">youtube</a></li>
+* lecture 2: <a href="https://www.youtube.com/watch?v=VhijgvVwn2g">youtube</a></li>
+* [slides](https://github.com/conorhoughton/PHPH20007")
+* [notes](https://github.com/conorhoughton/PHPH20007/blob/master/computational_neuroscience_1.pdf)
+
+You may notice that these were originally compiled for a PPN course.  We need to go a bit further.  (Hopefully, you'll know at least one of the topics below, depending on your course):
+* [Computing notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.1_computing.pdf)
+* [Mathematics notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.2_maths.pdf)
+* [Numerical notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf) (We're aware the link may be broken if you're looking at this on Monday.
