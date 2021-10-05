@@ -46,12 +46,13 @@ Previous years' exams can be found here (note they were a different format): <ht
 
 ## Week 2 - CH - modelling neurons ##
 Lectures:
-* lecture 1: <a href="https://www.youtube.com/watch?v=VrtVHAGjuEs">youtube</a></li>
-* lecture 2: <a href="https://www.youtube.com/watch?v=VhijgvVwn2g">youtube</a></li>
-* [slides](https://github.com/conorhoughton/PHPH20007")
+* [lecture 1 stream](https://www.youtube.com/watch?v=VrtVHAGjuEs);  [slides (part 1)](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.1.pdf) [slides (part 2)](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.2.pdf)
+* [lecture 2 stream](https://www.youtube.com/watch?v=VhijgvVwn2g); [slides](https://github.com/conorhoughton/PHPH20007/blob/master/slides_2.pdf)
 * [notes](https://github.com/conorhoughton/PHPH20007/blob/master/computational_neuroscience_1.pdf)
 
 You may notice that these were originally compiled for a PPN course.  We need to go a bit further.  (Hopefully, you'll know at least one of the topics below, depending on your course):
 * [Computing notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.1_computing.pdf)
 * [Mathematics notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.2_maths.pdf)
 * [Numerical notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf) (We're aware the link may be broken if you're looking at this on Monday.
+
+[Problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
