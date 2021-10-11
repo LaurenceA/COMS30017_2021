@@ -44,7 +44,7 @@ Previous years' exams can be found here (note they were a different format): <ht
 | Problem sheet |---| [pdf](week_1/problem_sheet_week1.pdf)
 | QA            | [Stream link](https://web.microsoftstream.com/video/a6981c77-3de0-4b63-8b31-f60f05b3a127) |---|
 
-## Week 2 - CH - modelling neurons ##
+## Week 2 - CH - modelling neurons 1 ##
 Lectures:
 * [lecture 1 stream](https://www.youtube.com/watch?v=VrtVHAGjuEs);  [slides (part 1)](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.1.pdf) [slides (part 2)](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.2.pdf)
 * [lecture 2 stream](https://www.youtube.com/watch?v=VhijgvVwn2g); [slides](https://github.com/conorhoughton/PHPH20007/blob/master/slides_2.pdf)
@@ -56,3 +56,9 @@ You may notice that these were originally compiled for a PPN course.  We need to
 * [Numerical notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf) (We're aware the link may be broken if you're looking at this on Monday.
 
 [Problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
+
+## Week 3 - CH - modelling neurons 2 ##
+Unfortunately due to illness I [CH] amn't able to post a full set of material; below are notes I would've used in making this week's notes. I will suplement this later, but the material will start the same.
+* [Leaky buckets](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/3_bucket_equation/3_bucket_equation.pdf)
+* [Integrate and fire](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/4_integrate_and_fire/4_integrate_and_fire.pdf)
+* [Hodgkin and Huxley](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/5_hodgkin_huxley/5_hodgkin_huxley.pdf)
