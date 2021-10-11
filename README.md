@@ -57,6 +57,7 @@ You may notice that these were originally compiled for a PPN course.  We need to
 * [Numerical notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf) (We're aware the link may be broken if you're looking at this on Monday.
 
 [Problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
+[Q&A](https://web.microsoftstream.com/video/adfb524b-4dd3-45d1-a81c-9aa05d757bef)
 
 ## Week 3 - modelling neurons 2 ##
 *Hodgkin Huxley, modelling neurons, analysing spiking data.*
@@ -71,7 +72,6 @@ You may notice that these were originally compiled for a PPN course.  We need to
 | 4. Analysing spike data. | 17:05 [[Stream link]](https://web.microsoftstream.com/video/32893640-1269-44e0-88a5-ae9d24320238) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video4_analysing_spike_data.pdf)
 | 5. Neural decoding. | 23:02 [[Stream link]](https://web.microsoftstream.com/video/7ea86d55-83ad-4136-8ef6-5c160d548bdd) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video5_neural_decoding.pdf)
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/problem_sheet_week3.pdf)
-| Live Q+A 26/10/20 | [[Stream link]](https://web.microsoftstream.com/video/3bbb23ab-bded-46b9-87f6-2d3266105cc8) |---|
 
 
 Previous notes from CH:
