@@ -57,7 +57,10 @@ You may notice that these were originally compiled for a PPN course.  We need to
 * [Numerical notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf) (We're aware the link may be broken if you're looking at this on Monday.
 
 [Problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
+
 [Q&A](https://web.microsoftstream.com/video/adfb524b-4dd3-45d1-a81c-9aa05d757bef)
+
+[Link to last year's lectures/content](https://github.com/cs-uob/COMS30017/tree/master/docs)
 
 ## Week 3 - modelling neurons 2 ##
 *Hodgkin Huxley, modelling neurons, analysing spiking data.*
