@@ -33,6 +33,7 @@ Previous years' exams can be found here (note they were a different format): <ht
 | [Stream link](https://web.microsoftstream.com/video/54dde62c-c7c6-487a-8484-d0f5b5d2392b) | [pdf](week_1/slides/intro.pdf)
 
 ## Week 1 - Background on brains ##
+[Lectures are from Cian, but please don't contact Cian as he has now left the university!  Please ask at the lecturer-led Q&A, ask your TA, on the [reddit](https://www.reddit.com/r/coms30017_20_21) or ask me (laurence.aitchison@bristol.ac.uk).]
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
@@ -59,6 +60,8 @@ You may notice that these were originally compiled for a PPN course.  We need to
 
 ## Week 3 - modelling neurons 2 ##
 *Hodgkin Huxley, modelling neurons, analysing spiking data.*
+
+[Lectures are from Cian, but please don't contact Cian as he has now left the university!  Please ask at the lecturer-led Q&A, ask your TA, on the [reddit](https://www.reddit.com/r/coms30017_20_21) or ask me (laurence.aitchison@bristol.ac.uk).]
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
