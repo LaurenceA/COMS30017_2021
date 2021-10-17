@@ -81,3 +81,16 @@ Previous notes from CH:
 * [Leaky buckets](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/3_bucket_equation/3_bucket_equation.pdf)
 * [Integrate and fire](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/4_integrate_and_fire/4_integrate_and_fire.pdf)
 * [Hodgkin and Huxley](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/5_hodgkin_huxley/5_hodgkin_huxley.pdf)
+
+## Week 4: 26/10/2020 
+*Synapses and synaptic plasticity*
+
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. What is a synapse? | 26:29 [[Stream link]](https://web.microsoftstream.com/video/18eb3514-a538-4fff-9df2-b3aacf0f5c01) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video1.pdf) |
+| 2. Computational modelling of a synapse | 25:31 [[Stream link]](https://web.microsoftstream.com/video/e48d0ea9-57ef-45c6-bc1f-6291a0ec2f44) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video2.pdf) |
+| 3. Synaptic plasticity | 11:02 [[Stream link]](https://web.microsoftstream.com/video/827267e7-0840-4483-b003-52ced2b74940) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video3.pdf) |
+| 4. Short-term plasticity | 14:38 [[Stream link]](https://web.microsoftstream.com/video/e42aada7-93fd-45cf-8c86-6b9d434a7970) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video4.pdf) |
+| 5. Long-term plasticity  | 33:07 [[Stream link]](https://web.microsoftstream.com/video/e0afc098-eca0-4dd8-af95-88ab39506192) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf) |
+| Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
+|Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf)
