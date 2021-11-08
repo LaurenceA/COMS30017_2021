@@ -83,8 +83,7 @@ Previous notes from CH:
 * [Integrate and fire](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/4_integrate_and_fire/4_integrate_and_fire.pdf)
 * [Hodgkin and Huxley](https://github.com/conorhoughton/COMS30127/blob/master/2014_15/5_hodgkin_huxley/5_hodgkin_huxley.pdf)
 
-## Week 4: 26/10/2020 
-*Synapses and synaptic plasticity*
+## Week 4: Synapses and synaptic plasticity
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
@@ -96,8 +95,7 @@ Previous notes from CH:
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf)
 
-## Week 5: 2/11/2020
-*Hippocampus + Hopfield networks*
+## Week 5: Hippocampus + Hopfield networks
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
@@ -107,9 +105,9 @@ Previous notes from CH:
 | 4. Hopfield networks (discrete attractors) | 12:35 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf) |
 | 5. Continuous attractors and navigation | 12:28 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/problem_sheet_week5.pdf)
+|Q&A | [[Stream link]](https://web.microsoftstream.com/video/2c6474dc-bc57-423a-80f2-368a369a15e4) | --- |
 
-## Week 6: 9/11/2020 (Laurence)
-*Visual system + rate coding.*
+## Week 6: Visual system + rate coding
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
