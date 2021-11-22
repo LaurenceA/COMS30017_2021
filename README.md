@@ -2,6 +2,9 @@
 
 This is a 3rd year Computer Science and MSc unit. We will try to understand how the brain works from a computational point of view.
 
+## Coursework
+See the coursework folder.
+
 ## Staff
 - [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) (unit director)
 
