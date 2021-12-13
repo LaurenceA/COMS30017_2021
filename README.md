@@ -61,6 +61,8 @@ You may notice that these were originally compiled for a PPN course.  We need to
 
 [Problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
 
+[Answers to problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/week_2-list_answers.pdf)
+
 [Q&A](https://web.microsoftstream.com/video/adfb524b-4dd3-45d1-a81c-9aa05d757bef)
 
 [Link to last year's lectures/content](https://github.com/cs-uob/COMS30017/tree/master/docs)
