@@ -24,7 +24,7 @@ All live sessions will be hosted on Microsoft Teams. You should already have bee
 - **Week 12**: Revision week. Preparation week for those students taking the 10-credit written exam version of unit ([COMS30016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30016) or COMSM0039).
 
 ## Past exams ##
-The 2020/21 January exams with solutions can be found here:
+The 2021 January exams with solutions can be found here:
 - [COMS30016](https://github.com/cs-uob/COMS30017/raw/master/exams/COMS30016_exam_Jan2021.pdf)
 - [COMSM0039](https://github.com/cs-uob/COMS30017/raw/master/exams/COMSM0039_exam_Jan2021.pdf)
 
