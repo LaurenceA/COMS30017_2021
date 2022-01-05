@@ -28,7 +28,7 @@ The 2021 January exams with solutions can be found here:
 - [COMS30016](https://github.com/cs-uob/COMS30017/raw/master/exams/COMS30016_exam_Jan2021.pdf)
 - [COMSM0039](https://github.com/cs-uob/COMS30017/raw/master/exams/COMSM0039_exam_Jan2021.pdf)
 
-Previous years' exams can be found here (note they were a different format): <https://github.com/coms30127/exam_papers>
+Previous years' exams can be found here (note they were a different format and had a different syllabus, so the above exam is more relevant): <https://github.com/coms30127/exam_papers>
 
 ## Intro meeting with Q+A ##
 | video | slides |
