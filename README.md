@@ -81,6 +81,8 @@ You may notice that these were originally compiled for a PPN course.  We need to
 | 4. Analysing spike data. | 17:05 [[Stream link]](https://web.microsoftstream.com/video/32893640-1269-44e0-88a5-ae9d24320238) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video4_analysing_spike_data.pdf)
 | 5. Neural decoding. | 23:02 [[Stream link]](https://web.microsoftstream.com/video/7ea86d55-83ad-4136-8ef6-5c160d548bdd) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video5_neural_decoding.pdf)
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/problem_sheet_week3.pdf)
+[Answers to problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_3/week_3_answer.pdf)
+
 |QA| [[Stream link]](https://web.microsoftstream.com/video/5d89e2f8-c7b3-431a-bfc8-4c31ca1b4fd2)
 
 
@@ -100,6 +102,8 @@ Previous notes from CH:
 | 5. Long-term plasticity  | 33:07 [[Stream link]](https://web.microsoftstream.com/video/e0afc098-eca0-4dd8-af95-88ab39506192) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf) |
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf)
+[Answers to problem sheet](https://github.com/cs-uob/COMS30017/blob/master/Week_4/week_4_answer.pdf)
+
 
 ## Week 5: Hippocampus + Hopfield networks
 
