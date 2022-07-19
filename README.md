@@ -24,11 +24,11 @@ All live sessions will be hosted on Microsoft Teams. You should already have bee
 - **Week 12**: Revision week. Preparation week for those students taking the 10-credit written exam version of unit ([COMS30016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30016) or COMSM0039).
 
 ## Past exams ##
-The 2020/21 January exams with solutions can be found here:
+The 2021 January exams with solutions can be found here:
 - [COMS30016](https://github.com/cs-uob/COMS30017/raw/master/exams/COMS30016_exam_Jan2021.pdf)
 - [COMSM0039](https://github.com/cs-uob/COMS30017/raw/master/exams/COMSM0039_exam_Jan2021.pdf)
 
-Previous years' exams can be found here (note they were a different format): <https://github.com/coms30127/exam_papers>
+Previous years' exams can be found here (note they were a different format and had a different syllabus, so the above exam is more relevant): <https://github.com/coms30127/exam_papers>
 
 ## Intro meeting with Q+A ##
 | video | slides |
@@ -46,6 +46,7 @@ Previous years' exams can be found here (note they were a different format): <ht
 | 4. Neuronal communication. | 14:37 [Stream link](https://web.microsoftstream.com/video/7eb544bf-a675-4c35-9e09-65f30016e50a) | [pdf](week_1/slides/week1_video4_neural_communication.pdf)
 | 5. Measuring, recording and stimulating the brain. | 19:54 [Stream link](https://web.microsoftstream.com/video/88b6fe93-55f5-4a9a-87f1-077e4a39475a) | [pdf](week_1/slides/week1_video5_brain_recording.pdf)
 | Problem sheet |---| [pdf](week_1/problem_sheet_week1.pdf)
+| Answers to problem sheet |---| [pdf](https://github.com/cs-uob/COMS30017/blob/master/week_1/week_1_answer.pdf)
 | QA            | [Stream link](https://web.microsoftstream.com/video/a6981c77-3de0-4b63-8b31-f60f05b3a127) |---|
 
 ## Week 2 - CH - modelling neurons 1 ##
@@ -60,6 +61,8 @@ You may notice that these were originally compiled for a PPN course.  We need to
 * [Numerical notes](https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf) (We're aware the link may be broken if you're looking at this on Monday.
 
 [Problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
+
+[Answers to problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/week_2-list_answers.pdf)
 
 [Q&A](https://web.microsoftstream.com/video/adfb524b-4dd3-45d1-a81c-9aa05d757bef)
 
@@ -78,6 +81,8 @@ You may notice that these were originally compiled for a PPN course.  We need to
 | 4. Analysing spike data. | 17:05 [[Stream link]](https://web.microsoftstream.com/video/32893640-1269-44e0-88a5-ae9d24320238) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video4_analysing_spike_data.pdf)
 | 5. Neural decoding. | 23:02 [[Stream link]](https://web.microsoftstream.com/video/7ea86d55-83ad-4136-8ef6-5c160d548bdd) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video5_neural_decoding.pdf)
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/problem_sheet_week3.pdf)
+[Answers to problem sheet](https://github.com/cs-uob/COMS30017/blob/master/week_3/week_3_answer.pdf)
+
 |QA| [[Stream link]](https://web.microsoftstream.com/video/5d89e2f8-c7b3-431a-bfc8-4c31ca1b4fd2)
 
 
@@ -97,6 +102,8 @@ Previous notes from CH:
 | 5. Long-term plasticity  | 33:07 [[Stream link]](https://web.microsoftstream.com/video/e0afc098-eca0-4dd8-af95-88ab39506192) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf) |
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf)
+[Answers to problem sheet](https://github.com/cs-uob/COMS30017/blob/master/Week_4/week_4_answer.pdf)
+
 
 ## Week 5: Hippocampus + Hopfield networks
 
@@ -108,6 +115,7 @@ Previous notes from CH:
 | 4. Hopfield networks (discrete attractors) | 12:35 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf) |
 | 5. Continuous attractors and navigation | 12:28 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/problem_sheet_week5.pdf)
+| Answers | --- | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/week5ans.pdf)|
 |Q&A | [[Stream link]](https://web.microsoftstream.com/video/2c6474dc-bc57-423a-80f2-368a369a15e4) | --- |
 
 ## Week 6: Visual system + rate coding
@@ -120,6 +128,7 @@ Previous notes from CH:
 | 4. V1 and the cortical microcircuit | 15:46 [[Stream link]](https://web.microsoftstream.com/video/e09a87fb-02d4-44ad-8e26-e53be1e86477) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video4.pdf) |
 | 5. Topographic maps and sparse coding | 20:43 [[Stream link]](https://web.microsoftstream.com/video/62cf3f4a-be00-4c6c-96fb-15b81fedda3d) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video5.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/problem_sheet_week6.pdf)
+| Answers | --- | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/week6ans.pdf)|
 | Q&A | [[Stream link]](https://web.microsoftstream.com/video/a9c5a708-14be-46af-a7e1-9869897d6ce8) | -- |
 
 ## Week 7: Cerebellum/basal ganglia, perceptrons, Rescorla-Wagner, blocking.
@@ -131,3 +140,4 @@ Previous notes from CH:
 | 3. Classical conditioning | 19:32 [[Stream link]](https://web.microsoftstream.com/video/50c2445b-3519-45b6-9b60-318adcde69a9) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video3.pdf) |
 | 4. Temporal difference learning and dopamine | 12:17 [[Stream link]](https://web.microsoftstream.com/video/ec61e42d-4018-474f-8918-03b79e049c24) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video4.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/problem_sheet_week7.pdf)
+| Answers | --- | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/week7ans.pdf) |
